@@ -4,10 +4,10 @@ This project is an end-to-end machine learning application designed to predict c
 The system identifies customers who are likely to leave and provides insights to support retention strategies.
 
 ## 🚀 Live Demo
-(https://customer-churn-prediction-eafo.onrender.com/)
+https://customer-churn-prediction-eafo.onrender.com/
 
 ## 🎥 Pitch Deck Demo
-PASTE_YOUR_PITCH_DECK_VIDEO_LINK_HERE
+[PASTE_YOUR_PITCH_DECK_VIDEO_LINK_HERE](https://youtu.be/ENmJDRB_52Q)
 
 ## 📊 Dataset
 The dataset is sourced from Kaggle and contains bank customer information such as credit score, geography, tenure, balance, and churn status.
@@ -38,17 +38,8 @@ The application supports real-time predictions, visualizations, and AI-generated
 - Plotly
 - Render
 
-## 📁 Project Structure
-```
-.
-├── main.py
-├── utils.py
-├── requirements.txt
-├── models/
-│   └── xgb_model.joblib
-└── README.md
-```
 
 ## 📌 Author
-Samira Yasmin
+Samira Yasmin 
+
 LinkedIn: https://www.linkedin.com/in/samira-yasmin-495416203/
