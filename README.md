@@ -7,7 +7,7 @@ The system identifies customers who are likely to leave and provides insights to
 https://customer-churn-prediction-eafo.onrender.com/
 
 ## 🎥 Pitch Deck Demo
-[PASTE_YOUR_PITCH_DECK_VIDEO_LINK_HERE](https://youtu.be/ENmJDRB_52Q)
+https://youtu.be/ENmJDRB_52Q
 
 ## 📊 Dataset
 The dataset is sourced from Kaggle and contains bank customer information such as credit score, geography, tenure, balance, and churn status.
