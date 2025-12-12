@@ -1,0 +1,15 @@
+# API keys / secrets
+Groq churn API key.txt
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
