@@ -8,3 +8,4 @@ imbalanced-learn
 openai
 matplotlib
 seaborn
+plotly
