@@ -9,3 +9,5 @@ openai
 matplotlib
 seaborn
 plotly
+
+# force rebuild
