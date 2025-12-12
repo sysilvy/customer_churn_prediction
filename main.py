@@ -175,7 +175,7 @@ xgboost_featureEngineered_model = load_model("xgboost-featureEngineered.joblib")
 xgboost_SMOTE_model = load_model("xgboost-SMOTE.joblib")
 naive_bayes_model = load_model("nb_model.joblib")
 voting_classifier_model = load_model("voting_classifier.joblib")
-xgboost_grid_search_model = load_model("xgboost_grid_search.joblib")
+xgboost_grid_search_model = load_model("xgboost-gridsearch.joblib")
 
 
 # prepare input
